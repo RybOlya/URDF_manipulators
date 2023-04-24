@@ -1,0 +1,3 @@
+manipulator_type:
+  cartesian: "cartesian.launch.py"
+  3r_manipulator: "3r_manipulator.launch.py"
